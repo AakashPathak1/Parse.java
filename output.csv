@@ -1,0 +1,356 @@
+File Name, android:id, android:text
+dialog_drive_window_robot_settings.xml, , DRIVING
+dialog_drive_window_robot_settings.xml, , CAMERAS
+dialog_drive_window_robot_settings.xml, @+id/_cruise_title, CRUISE CONTROL
+dialog_drive_window_robot_settings.xml, @+id/cruise_control_seek_bar_information, 2 m/s
+dialog_drive_window_robot_settings.xml, @+id/_manual_speed_title, MAX MANUAL SPEED
+dialog_drive_window_robot_settings.xml, @+id/manual_speed_seek_bar_information, 2 m/s
+dialog_drive_window_robot_settings.xml, @+id/_turn_speed_title, MAX TURN SPEED
+dialog_drive_window_robot_settings.xml, @+id/turn_speed_seek_bar_information, 2 m/s
+dialog_notes.xml, , Notes
+dialog_notes.xml, @+id/save_dialog, SAVE
+include_layer_drive_activity.xml, , Loading Stream ...
+include_layer_drive_activity.xml, , Try to Save Again
+include_layer_drive_activity.xml, @+id/notification_tv, An issue has been detected.
+include_layer_drive_activity.xml, @+id/data_record_timer, 00:00
+include_layer_drive_activity.xml, @+id/storage_low, Low Storage
+include_layer_drive_activity.xml, @+id/battery_low, Battery Low
+include_layer_drive_activity.xml, @+id/record_data_button_information, Record Data
+include_layer_drive_activity.xml, @+id/cruise_speed_tv_title, Cruise Speed
+include_layer_drive_activity.xml, @+id/cruise_control_speed_tv, 1.5m/s
+include_layer_drive_activity.xml, @+id/turn_speed_tv_title, Turn Speed
+include_layer_drive_activity.xml, @+id/turn_control_speed_tv, 1.5m/s
+include_layer_drive_activity.xml, @+id/manual_speed_tv_title, Manual Speed
+include_layer_drive_activity.xml, @+id/manual_control_speed_tv, 1.5m/s
+include_layer_drive_activity.xml, @+id/streaming_toggle_button, OFF
+include_layer_drive_activity.xml, @+id/camera_text_info, Streaming
+include_layer_drive_activity.xml, @+id/cruise_control_tv, CRUISE CONTROL
+include_layer_drive_activity.xml, @+id/cruise_control_toggle_button, OFF
+include_layer_drive_activity.xml, @+id/row_following_tv, ROW FOLLOWING
+include_layer_drive_activity.xml, @+id/row_following_button, OFF
+activity_gps_configuration.xml, , GPS SUBSCRIPTION CONFIGURATION
+activity_gps_configuration.xml, , Username :
+activity_gps_configuration.xml, , Password :
+activity_gps_configuration.xml, , Host :
+activity_gps_configuration.xml, , Mount Point :
+activity_gps_configuration.xml, , Port :
+activity_gps_configuration.xml, @+id/remove_button, Reset
+activity_gps_configuration.xml, @+id/save_button, Save
+dialog_mission_start.xml, , RANGE IDENTIFICATION
+dialog_mission_start.xml, @+id/__MISSION_DIALOG_COLUMN_TITLE_d, COLUMN
+dialog_mission_start.xml, @+id/__MISSION_DIALOG_RANGE_TITLE_d, START RANGE
+dialog_mission_start.xml, @+id/save_dialog, SAVE
+activity_robot_overview.xml, , TERRASENTIA OVERVIEW
+include_layer_main_activity.xml, @+id/__days_since_update, Days since last update check : 
+include_layer_main_activity.xml, @+id/last_connected_time, N/A
+include_layer_main_activity.xml, @+id/__syncing_title, Syncing files...
+include_layer_main_activity.xml, @+id/status, Connecting...
+include_layer_main_activity.xml, @+id/version_title, Version
+include_layer_main_activity.xml, @+id/version_number, X.Y.Z
+dialog_field_select.xml, @+id/selectFieldHeader, EXISTING FIELDS
+activity_help_screen.xml, , HELP
+activity_help_screen.xml, @+id/link, Please visit https://www.terrasentia.co/help  for any questions or concerns.
+activity_help_screen.xml, @+id/emergency, For Emergencies :
+activity_help_screen.xml, , (217)402-4767
+dialog_mission_summary.xml, , Mission Summary
+dialog_mission_summary.xml, , Interventions
+widget_spinner_item.xml, @android:id/text1, 
+activity_check_cameras.xml, , CAMERA CHECK
+activity_check_cameras.xml, @+id/__FRONT_CAMERA_TV, Front Camera
+activity_check_cameras.xml, @+id/frontCameraAngleTextView, 0°
+activity_check_cameras.xml, @+id/__LEFT_CAMERA_TV, Left Camera
+activity_check_cameras.xml, @+id/leftCameraAngleTextView, 0°
+activity_check_cameras.xml, @+id/__RIGHT_CAMERA_TV, Right Camera
+activity_check_cameras.xml, @+id/rightCameraAngleTextView, 0°
+activity_check_cameras.xml, @+id/__BACK_CAMERA_TV, Top Camera
+activity_check_cameras.xml, @+id/backCameraAngleTextView, 90°
+activity_check_cameras.xml, @+id/camera_label_tv, FRONT CAMERA
+activity_check_cameras.xml, @+id/notification_tv, Hi this is a description of an error and and this is a description of an error and and this is a description of an error and and 
+activity_check_cameras.xml, @+id/camera_missing_tv, Camera Not Connected
+include_layer_terra_overview_activity.xml, @+id/__ROBOT_STATUS_HEADER, ROBOT STATUS
+include_layer_terra_overview_activity.xml, @+id/__DEVICES_HEADER, DEVICES
+include_layer_terra_overview_activity.xml, , Wi-Fi
+include_layer_terra_overview_activity.xml, @+id/wifi_information_tv, TERRASENTIA-SSID
+include_layer_terra_overview_activity.xml, , Battery
+include_layer_terra_overview_activity.xml, @+id/battery_information_tv, ---
+include_layer_terra_overview_activity.xml, , Storage remaining
+include_layer_terra_overview_activity.xml, @+id/data_usage_information_tv, ---
+include_layer_terra_overview_activity.xml, @+id/__temperature, Temperature
+include_layer_terra_overview_activity.xml, @+id/temperature_warning_tv, ---
+include_layer_terra_overview_activity.xml, @+id/__front_camera_tv, FRONT CAMERA
+include_layer_terra_overview_activity.xml, @+id/front_camera_information_tv, Not Connected
+include_layer_terra_overview_activity.xml, @+id/__left_camera_tv, LEFT CAMERA
+include_layer_terra_overview_activity.xml, @+id/left_camera_information_tv, Not Connected
+include_layer_terra_overview_activity.xml, @+id/__right_camera_tv, RIGHT CAMERA
+include_layer_terra_overview_activity.xml, @+id/right_camera_information_tv, Not Connected
+include_layer_terra_overview_activity.xml, @+id/__back_camera_tv, BACK CAMERA
+include_layer_terra_overview_activity.xml, @+id/back_camera_information_tv, Not Connected
+include_layer_terra_overview_activity.xml, @+id/__horizontal_lidar, HORIZONTAL LIDAR
+include_layer_terra_overview_activity.xml, @+id/horizontal_lidar_information_tv, Not Connected
+include_layer_terra_overview_activity.xml, @+id/__vertical_lidar, VERTICAL LIDAR
+include_layer_terra_overview_activity.xml, @+id/vertical_lidar_information_tv, Not Connected
+include_layer_terra_overview_activity.xml, @+id/__gps, GPS
+include_layer_terra_overview_activity.xml, @+id/gps_information_tv, Not Connected
+add_view_layer_field_row.xml, @+id/text, name
+add_view_inmission_summary_item.xml, @+id/tracker_issues_tv, 10
+add_view_inmission_summary_item.xml, , Start : 
+add_view_inmission_summary_item.xml, @+id/start_date_tv, "24 JAN~ 10:40PM"
+add_view_inmission_summary_item.xml, , Duration 
+add_view_inmission_summary_item.xml, @+id/stop_date_tv, 00:00:00
+add_view_inmission_summary_item.xml, @+id/__columns_title, Column
+add_view_inmission_summary_item.xml, @+id/start_column_tv, 10
+add_view_inmission_summary_item.xml, @+id/stop_column_tv, 100
+add_view_inmission_summary_item.xml, @+id/__ranges_title, Range
+add_view_inmission_summary_item.xml, @+id/start_range_tv, 10
+add_view_inmission_summary_item.xml, @+id/stop_range_tv, 100
+add_view_inmission_summary_item.xml, @+id/delete_button, Delete
+add_view_inmission_summary_item.xml, @+id/edit_button, Edit
+activity_mission_select.xml, , MISSION SELECTION
+activity_mission_select.xml, @+id/__mission_name, NAME
+activity_mission_select.xml, @+id/__field_name, FIELD
+activity_mission_select.xml, @+id/__traits, TRAIT
+activity_mission_select.xml, @+id/__last_ran, LATEST RUN
+activity_mission_select.xml, @+id/createNew, CREATE MISSION
+dialog_mission_stop.xml, , DATA PREVIOUSLY COLLECTED
+dialog_mission_stop.xml, @+id/__MISSION_DIALOG_COLUMN_TITLE, COLUMN
+dialog_mission_stop.xml, @+id/columnStartValue, 
+dialog_mission_stop.xml, @+id/columStopValue, 
+dialog_mission_stop.xml, @+id/__MISSION_DIALOG_RANGE_TITLE, START RANGE
+dialog_mission_stop.xml, @+id/rangeStartValue, 
+dialog_mission_stop.xml, @+id/__MISSION_DIALOG_RANGE_STOP_TITLE, STOP RANGE
+dialog_mission_stop.xml, @+id/rangeStopValue, 
+dialog_mission_stop.xml, @+id/title_collection, CURRENT COLLECTION
+dialog_mission_stop.xml, @+id/__MISSION_DIALOG_COLUMN_TITLE_current, COLUMN
+dialog_mission_stop.xml, @+id/__MISSION_DIALOG_RANGE_CURRENT_TITLE, START RANGE
+dialog_mission_stop.xml, @+id/__MISSION_DIALOG_RANGE_CURRENT_STOP_TITLE, STOP RANGE
+dialog_mission_stop.xml, @+id/save, SAVE
+dialog_tracker_information.xml, @+id/plot_identification_information_box, Please indentify the Starting plot.
+dialog_tracker_information.xml, @+id/plot_identification_title_tv, Plot Identification:
+dialog_tracker_information.xml, @+id/plot_identification_description_text_view, "Start Plot: Column 1~ Range 1"
+dialog_tracker_information.xml, @+id/column_plot_identification, Column
+dialog_tracker_information.xml, @+id/range_plot_identification, Range
+dialog_generic_alert.xml, @+id/__header, WARNING
+dialog_generic_alert.xml, @+id/alert_box_tv, 
+widget_drawer_navigation_header.xml, , Terra Menu
+included_view_booting_loading_bar.xml, @+id/booting_title, Robot is booting
+included_view_booting_loading_bar.xml, @+id/booting_title_postfix, . . .
+included_view_booting_loading_bar.xml, @+id/hint_prefix, Hint
+included_view_booting_loading_bar.xml, @+id/booting_hint, Quick Hint...
+dialog_drive_window_collection_details_advanced.xml, , Collection Summary
+dialog_drive_window_collection_details_advanced.xml, @+id/ignore_button, Ignore
+dialog_drive_window_collection_details_advanced.xml, , SET FLAGS
+dialog_bot_mission_details.xml, , Mission Name:
+dialog_bot_mission_details.xml, @+id/missionName, Mission Name
+dialog_bot_mission_details.xml, , DataCollection Name:
+dialog_bot_mission_details.xml, , Field Name:
+dialog_bot_mission_details.xml, , Column
+dialog_bot_mission_details.xml, , Range
+dialog_bot_mission_details.xml, , -
+dialog_bot_mission_details.xml, , Traits:
+dialog_bot_mission_details.xml, , Crop Name:
+dialog_bot_mission_details.xml, , Operator Name:
+activity_drive.xml, @+id/save_dismiss_timer_tv, Popup will disappear in 10 seconds
+activity_drive.xml, , Intervention Detected
+activity_drive.xml, @+id/intervention_system_description_tv, Description of what happened... 
+activity_drive.xml, , Run in background
+activity_drive.xml, , Take a picture
+activity_drive.xml, , Record Video
+activity_drive.xml, , Stop data record
+activity_drive.xml, @+id/take_picture_button, Take a picture
+activity_drive.xml, , Record Video
+activity_drive.xml, @+id/intervention_action_description_tv, Description of what happened... 
+activity_drive.xml, @+id/interventions_done_button, Done
+activity_drive.xml, @+id/interventions_back_button, Back
+activity_drive.xml, , System Failure
+activity_drive.xml, , Robot not responding.
+activity_drive.xml, , Connection loss.
+activity_drive.xml, , Sensor disconnected.
+activity_drive.xml, , Control loss.
+activity_drive.xml, , Perception Failure
+activity_drive.xml, , Camera(s) blocked.
+activity_drive.xml, , Lidar(s) blocked.
+activity_drive.xml, , Sensor malfunction.
+activity_drive.xml, , Environmental Interference
+activity_drive.xml, , Muddy/sticky terrain.
+activity_drive.xml, , Large obstacles.
+activity_drive.xml, , Lodged plants.
+activity_drive.xml, , Weeds.
+activity_drive.xml, @+id/robot_gps_tv, RTK GPS
+activity_drive.xml, @+id/robot_gps_accuracy, --
+activity_drive.xml, @+id/calibrating_tv, 
+activity_drive.xml, @+id/temperature_warning_tv, ---
+activity_drive.xml, , Exit Mission
+activity_drive.xml, @+id/tracker_issues_tv, 10
+activity_drive.xml, @+id/__summary_title, Mission Progression Summary
+activity_drive.xml, @+id/__plots_collected_title, Plots Collected : 
+activity_drive.xml, @+id/plots_collected_tv, -
+activity_drive.xml, @+id/max_possible_plots, /100
+activity_drive.xml, @+id/__data_size_collected__title, Data Size Collected : 
+activity_drive.xml, @+id/data_size_collected_tv, -
+activity_drive.xml, , GBs
+activity_drive.xml, @+id/__mission_progress_title, Progress:
+activity_drive.xml, @+id/mission_progress_tv, 45%
+activity_drive.xml, @+id/__columns_title, Column
+activity_drive.xml, @+id/start_column_tv, 10
+activity_drive.xml, @+id/stop_column_tv, 100
+activity_drive.xml, @+id/__ranges_title, Range
+activity_drive.xml, @+id/start_range_tv, 10
+activity_drive.xml, @+id/stop_range_tv, 100
+add_view_item_intervention_tracker_manager.xml, , Start Time : 
+add_view_item_intervention_tracker_manager.xml, @+id/start_time, 10:40:35PM
+add_view_item_intervention_tracker_manager.xml, , Duration : 
+add_view_item_intervention_tracker_manager.xml, @+id/duration_time, 00:00:55
+add_view_item_intervention_tracker_manager.xml, , Type : 
+add_view_item_intervention_tracker_manager.xml, @+id/type_tv, Ignored
+add_view_item_intervention_tracker_manager.xml, , Autonomy : 
+add_view_item_intervention_tracker_manager.xml, @+id/autonomy_tv, ---
+add_view_item_intervention_tracker_manager.xml, , Field : 
+add_view_item_intervention_tracker_manager.xml, @+id/field_tv, ---
+add_view_item_intervention_tracker_manager.xml, , Start Plot : 
+add_view_item_intervention_tracker_manager.xml, @+id/start_plot_tv, 
+add_view_item_intervention_tracker_manager.xml, , Stop Plot : 
+add_view_item_intervention_tracker_manager.xml, @+id/stop_plot_tv, 
+add_view_item_intervention_tracker_manager.xml, , Streaming : 
+add_view_item_intervention_tracker_manager.xml, @+id/streaming_state, "FRONT~LEFT~RIGHT"
+add_view_item_intervention_tracker_manager.xml, , Loading...
+add_view_item_intervention_tracker_manager.xml, , Loading...
+add_view_item_intervention_tracker_manager.xml, , Loading...
+add_view_item_intervention_tracker_manager.xml, , Loading...
+add_view_item_intervention_tracker_manager.xml, , Loading...
+add_view_item_intervention_tracker_manager.xml, , Loading...
+add_view_item_intervention_tracker_manager.xml, , Loading...
+add_view_item_intervention_tracker_manager.xml, , Description : 
+add_view_item_intervention_tracker_manager.xml, , Picture taken : 
+add_view_item_intervention_tracker_manager.xml, @+id/picture_taken, No
+add_view_item_intervention_tracker_manager.xml, , Video taken : 
+add_view_item_intervention_tracker_manager.xml, @+id/video_taken, No
+add_view_item_intervention_tracker_manager.xml, , Type : 
+add_view_item_intervention_tracker_manager.xml, @+id/type_second_tv, Ignored
+dialog_user_preferences_box.xml, , Options list:
+dialog_generic_two_buttons_alert.xml, @+id/__header, WARNING
+dialog_generic_two_buttons_alert.xml, @+id/alert_box_tv, 
+activity_trait_manager.xml, @+id/title, CUSTOM TRAIT MANAGER
+activity_trait_manager.xml, @+id/__name_tv_title, Name
+activity_trait_manager.xml, @+id/__CROP_TITLE, Crops Available
+activity_trait_manager.xml, @+id/__select_crop_title, Selected Crops:
+activity_trait_manager.xml, @+id/__select_crop_information, Click below to remove selected.
+activity_trait_manager.xml, , Optional
+activity_trait_manager.xml, @+id/__growth_stage_title, Growth Stage
+activity_trait_manager.xml, , Early
+activity_trait_manager.xml, , Mid
+activity_trait_manager.xml, , Late
+activity_trait_manager.xml, , Remove
+activity_trait_manager.xml, , CAMERAS
+activity_trait_manager.xml, @+id/default_angle_tv, Default Angle
+activity_trait_manager.xml, @+id/default_min, -45°
+activity_trait_manager.xml, @+id/default_max, +90°
+activity_trait_manager.xml, @+id/minimum_angle_tv, Minimum Angle Allowed
+activity_trait_manager.xml, @+id/min_min, -45°
+activity_trait_manager.xml, @+id/min_max, +90°
+activity_trait_manager.xml, @+id/maximum_angle_tv, Maximum Angle Allowed
+activity_trait_manager.xml, @+id/max_min, -45°
+activity_trait_manager.xml, @+id/max_max, +90°
+activity_trait_manager.xml, @+id/top_angle_text, Fixed Angle : 90°
+activity_trait_manager.xml, @+id/notification_tv, An issue has been detected.
+add_view_layer_mission_row_body.xml, @+id/__FIELD_TITLE, FIELD : 
+add_view_layer_mission_row_body.xml, @+id/FieldName, ---
+add_view_layer_mission_row_body.xml, @+id/__CROP_TITLE, CROP : 
+add_view_layer_mission_row_body.xml, @+id/CropName, ---
+add_view_layer_mission_row_body.xml, @+id/__PLANTING_DATE_TITLE, Planting Date : 
+add_view_layer_mission_row_body.xml, @+id/plantingDate, -- / -- / ----
+add_view_layer_mission_row_body.xml, @+id/__CRUISE_SPEED, Cruise Speed : 
+add_view_layer_mission_row_body.xml, @+id/cruiseSpeed, --- mph
+add_view_layer_mission_row_body.xml, @+id/left_side_robot_trait_tv, 
+add_view_layer_mission_row_body.xml, @+id/top_side_robot_trait_tv, 
+add_view_layer_mission_row_body.xml, @+id/front_side_robot_trait_tv, 
+add_view_layer_mission_row_body.xml, @+id/right_side_robot_trait_tv, 
+add_view_layer_mission_row_body.xml, , Drive Mode:
+add_view_layer_mission_row_body.xml, @+id/autonomyText, 
+add_view_layer_mission_row_body.xml, @+id/confirm, START
+add_view_layer_mission_row_body.xml, @+id/edit, EDIT
+dialog_drive_window_camera_settings.xml, , DRIVING
+dialog_drive_window_camera_settings.xml, , CAMERAS
+dialog_drive_window_camera_settings.xml, @+id/streaming_settings_title, Streaming Settings
+dialog_drive_window_camera_settings.xml, @+id/led_settings_title, Lighting Settings
+dialog_drive_window_camera_settings.xml, @+id/progress_bar_info, 10*
+dialog_drive_window_camera_settings.xml, @+id/camera_missing_tv, Camera Not Connected
+dialog_drive_window_camera_settings.xml, @+id/camera_label_tv, FRONT CAMERA
+dialog_drive_window_camera_settings.xml, @+id/notification_tv, An issue has been detected.
+dialog_software_update.xml, @+id/__header, Software Update
+dialog_software_update.xml, , Robot Software
+dialog_software_update.xml, , Tablet Software
+activity_tracker_manager.xml, , Previous Collection
+activity_tracker_manager.xml, @+id/prev___columns_title, Column
+activity_tracker_manager.xml, @+id/prev_start_column_tv, 10
+activity_tracker_manager.xml, @+id/prev_stop_column_tv, 100
+activity_tracker_manager.xml, @+id/prev___ranges_title, Range
+activity_tracker_manager.xml, @+id/prev_start_range_tv, 10
+activity_tracker_manager.xml, @+id/prev_stop_range_tv, 100
+activity_tracker_manager.xml, , Data Collection Metadata Manager
+activity_tracker_manager.xml, @+id/__columns_title, Column
+activity_tracker_manager.xml, @+id/__ranges_title, Range
+activity_tracker_manager.xml, , Interventions
+activity_tracker_manager.xml, @+id/interventions_count, 2
+widget_spinner_crop_item.xml, @+id/content_tv, 
+add_view_layer_mission_row_header.xml, @+id/listTitle, name
+add_view_layer_mission_row_header.xml, @+id/fieldName, name
+add_view_layer_mission_row_header.xml, @+id/listDate, mm/dd/yy
+activity_field_manager.xml, , Field Manager
+activity_field_manager.xml, @+id/__FIELD_NAME_TV_FC, FIELD
+activity_field_manager.xml, @+id/__COLUMN_TITLE, COLUMN
+activity_field_manager.xml, @+id/__COLUMN_TITLE_FIRST, Start
+activity_field_manager.xml, @+id/__COLUMN_TITLE_LAST, Stop
+activity_field_manager.xml, @+id/__RANGE_TITLE, RANGE
+activity_field_manager.xml, @+id/__RANGE_TITLE_FIRST, Start
+activity_field_manager.xml, @+id/__RANGE_TITLE_LAST, Stop
+activity_field_manager.xml, @+id/__ROWS_PER_COLUMN, Rows per Column
+activity_field_manager.xml, @+id/__ROW_WIDTH, Row Width
+activity_field_manager.xml, , in
+activity_field_manager.xml, @+id/__PLOT_LENGTH, Plot length
+activity_field_manager.xml, , ft
+activity_field_manager.xml, @+id/__CROP_TITLE, CROP
+activity_field_manager.xml, , Add New Crop
+activity_field_manager.xml, @+id/__CROP_PLANTING_DATE_LABEL, Planting Date
+activity_field_manager.xml, @+id/crop_planting_date_tv, 
+activity_field_manager.xml, @+id/__CROP_PLANTING_SPACE_LABEL, Planting Space
+activity_field_manager.xml, , in
+activity_field_manager.xml, @+id/confirm_button, Save
+activity_field_manager.xml, @+id/back_button, Back
+activity_field_manager.xml, @+id/delete_button, Delete
+activity_field_manager.xml, @+id/notification_tv, An issue has been detected.
+widget_spinner_list_item.xml, @+id/content_tv, 10
+activity_main.xml, @+id/check_update_notification_title, Checking for Updates
+activity_main.xml, @+id/update_notification_title, Installing Update
+widget_spinner_list_item_dark.xml, @+id/content_tv, 10
+add_view_item_timeline.xml, , Intervention Flags
+add_view_item_timeline.xml, , Start 
+add_view_item_timeline.xml, @+id/start_date_tv, "24 JAN~ 10:40PM"
+add_view_item_timeline.xml, , Ignored
+add_view_item_timeline.xml, , Autonomy
+add_view_item_timeline.xml, , Crash
+add_view_item_timeline.xml, , Description:
+add_view_item_timeline.xml, @+id/description_textview, 
+notification.xml, , "Hi~ Your Detailed notification view goes here...."
+dialog_trait_select.xml, @+id/selectFieldHeader, EXISTING TRAITS
+activity_mission_manager.xml, @+id/notification_tv, An issue has been detected.
+activity_mission_manager.xml, , MISSION MANAGER
+activity_mission_manager.xml, @+id/__growth_stage_title, Growth Stage
+activity_mission_manager.xml, , Early
+activity_mission_manager.xml, , Mid
+activity_mission_manager.xml, , Late
+activity_mission_manager.xml, @+id/__traits_title, Traits
+activity_mission_manager.xml, @+id/left_side_robot_trait_tv, 
+activity_mission_manager.xml, @+id/top_side_robot_trait_tv, 
+activity_mission_manager.xml, @+id/front_side_robot_trait_tv, 
+activity_mission_manager.xml, @+id/right_side_robot_trait_tv, 
+activity_mission_manager.xml, , Plant Height
+activity_mission_manager.xml, @+id/__name_tv_title, Name
+activity_mission_manager.xml, @+id/__field_tv_title, Field
+activity_mission_manager.xml, @+id/field_tv, 
+activity_mission_manager.xml, @+id/__crop_title, Crop:
+activity_mission_manager.xml, @+id/crop_title, Corn
+activity_mission_manager.xml, @+id/mast_robot_checkbox_title, Mast Robot
+activity_mission_manager.xml, @+id/__driving_mode_title, Driving Mode
+activity_mission_manager.xml, , Manual Drive
+activity_mission_manager.xml, , Row Follow
+activity_mission_manager.xml, , GPS Waypoint
