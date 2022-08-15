@@ -1,4 +1,4 @@
-# EarthSense_TerraSentia_Parse
+#Parse.java
 Parsing Script to extract readable data from EarthSense app
 by Aakash Pathak
 
